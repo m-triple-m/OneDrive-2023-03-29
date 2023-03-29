@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+body {
+  font-family: 'Orbitron', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background: #0b1246 url('./assets/background.png') 50% -300px;
+  background-size: 100% auto; */
+  background: radial-gradient(54.11% 26.86% at 73.99% 20.4%, rgba(186, 0, 187, 0.42) 0%, #AC02B2 0.01%, #0F1755 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+
+  color: #ffffff;
+  overflow-x: hidden;
+}
+
+
+code {
+  font-family: 'Orbitron', sans-serif;
+}
