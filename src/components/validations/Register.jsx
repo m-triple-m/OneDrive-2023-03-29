@@ -422,7 +422,7 @@ const Register = () => {
                 required
               />
             </FormContainer>
-            <SubmitButton type="submit">Login</SubmitButton>
+            <SubmitButton type="submit">Register</SubmitButton>
             <p>
               Already have an account?
               <RegisterLink to="/login"> Login</RegisterLink>
